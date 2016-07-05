@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "398128218697",
+    "firebase_url": "https://data-portal-jm.firebaseio.com",
+    "project_id": "data-portal-jm",
+    "storage_bucket": "data-portal-jm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398128218697:android:8e41584d4c51f4e8",
+        "android_client_info": {
+          "package_name": "com.javon.dataportaljm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398128218697-0oqcogde4m14rnchg8n1830fedbg2bhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOYnspDjoSsfOUW9xbw6wL7oEUF1Dqcls"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
